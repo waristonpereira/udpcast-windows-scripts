@@ -1,5 +1,8 @@
 # udpcast-windows-scripts
 Este script permite a cópia de diretórios inteiros pela rede usando UDP.
+
+O script faz uso do UDPCAST (https://www.udpcast.linux.lu) para envio dos dados e 7-zip (https://www.7-zip.org) para compressão/empacotamento dos dados.
+
 A cópia por UDP é extremamente eficiente quando se precisa copiar arquivos para várias máquinas ao mesmo tempo.
 
 # Orientações
